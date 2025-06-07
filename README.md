@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me
+## 🙋‍♂️ About me
 - 📱 iOS engineer
 - ✍️ Technical blogger covering mobile development & programming tools
 - 🚀 Continuous learner & explorer
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ❤️ Love treakking and experimenting with different dishes
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhritimansahadev/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhritimansaha4th/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhritiman4th@gmail.com) 
