@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Dhritiman Saha  
+## Hi there 👋, I'm an iOS developer
 
 <!--
 **dhritiman4th/dhritiman4th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Passionate about Data Structures, Algorithms, and Swift development  
-🚀 Building projects and learning every day  
-🌱 Currently exploring advanced iOS and backend technologies  
+## About me
+- 📱 iOS engineer
+- ✍️ Technical blogger covering mobile development & programming tools
+- 🚀 Continuous learner & explorer
+- 💻 Diving into algorithms & data structures
+- ❤️ Love treakking and experimenting with different dishes
 
 
 ## 🌐 Socials:
@@ -24,15 +27,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhritimansaha4th/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhritiman4th@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-username&theme=dark)](https://leetcode.com/your-username/)
-
-
-<a href="https://leetcode.com/dhritiman4th/">
-  <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=dhritiman4th&theme=dark" />
-</a>
+![](https://leetcard.jacoblin.cool/dhritiman4th?ext=heatmap)
 
 <!--
 # 📊 GitHub Stats:
